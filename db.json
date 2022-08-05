@@ -1,0 +1,116 @@
+{
+  "merchants": [
+    {
+      "id": 1,
+      "legalName": "Merchant 1",
+      "brandName": "Brand 1",
+      "companyType": "Type 1",
+      "companyID": "1A2B3C",
+      "createdAt": "December 10, 2021"
+    },
+    {
+      "id": 2,
+      "legalName": "Merchant 2",
+      "brandName": "Brand 2",
+      "companyType": "Type 2",
+      "companyID": "1A2B3C",
+      "createdAt": "October 03, 2021"
+    },
+    {
+      "id": 3,
+      "legalName": "Merchant 3",
+      "brandName": "Brand 3",
+      "companyType": "Type 3",
+      "companyID": "1A2B3C",
+      "createdAt": "February 10, 1999"
+    },
+    {
+      "id": 4,
+      "legalName": "Merchant 4",
+      "brandName": "Brand 4",
+      "companyType": "Type 4",
+      "companyID": "1A2B3C",
+      "createdAt": "December 12, 2021"
+    },
+    {
+      "id": 5,
+      "legalName": "Merchant 5",
+      "brandName": "Brand 5",
+      "companyType": "Type 1",
+      "companyID": "1A2B3C",
+      "createdAt": "January 10, 2022"
+    },
+    {
+      "id": 6,
+      "legalName": "Merchant 6",
+      "brandName": "Brand 6",
+      "companyType": "Type 2",
+      "companyID": "1A2B3C",
+      "createdAt": "July 08, 2021"
+    },
+    {
+      "id": 7,
+      "legalName": "Merchant 7",
+      "brandName": "Brand 7",
+      "companyType": "Type 3",
+      "companyID": "1A2B3C",
+      "createdAt": "December 10, 2021"
+    },
+    {
+      "id": 8,
+      "legalName": "Merchant 8",
+      "brandName": "Brand 8",
+      "companyType": "Type 4",
+      "companyID": "1A2B3C",
+      "createdAt": "June 31, 2021"
+    },
+    {
+      "id": 9,
+      "legalName": "Merchant 9",
+      "brandName": "Brand 9",
+      "companyType": "Type 1",
+      "companyID": "1A2B3C",
+      "createdAt": "December 01, 2021"
+    },
+    {
+      "id": 10,
+      "legalName": "Merchant 10",
+      "brandName": "Brand 10",
+      "companyType": "Type 2",
+      "companyID": "1A2B3C",
+      "createdAt": "October 04, 2021"
+    },
+    {
+      "id": 11,
+      "legalName": "Merchant 11",
+      "brandName": "Brand 11",
+      "companyType": "Type 3",
+      "companyID": "1A2B3C",
+      "createdAt": "December 28, 2021"
+    },
+    {
+      "id": 12,
+      "legalName": "Merchant 12",
+      "brandName": "Brand 12",
+      "companyType": "Type 4",
+      "companyID": "1A2B3C",
+      "createdAt": "September 09, 2021"
+    },
+    {
+      "id": 13,
+      "legalName": "Merchant 13",
+      "brandName": "Brand 13",
+      "companyType": "Type 5",
+      "companyID": "1A2B3C",
+      "createdAt": "March 10, 2021"
+    },
+    {
+      "id": 14,
+      "legalName": "Merchant 14",
+      "brandName": "Brand 14",
+      "companyType": "Type 1",
+      "companyID": "1A2B3C",
+      "createdAt": "April 21, 2021"
+    }
+  ]
+}
