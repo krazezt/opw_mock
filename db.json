@@ -112,5 +112,9 @@
       "companyID": "1A2B3C",
       "createdAt": "April 21, 2021"
     }
+  ],
+  "Company": [
+    { "id": "1A2B3C", "name": "Company Name 1" },
+    { "id": "3A2B1C", "name": "Company Name 2" }
   ]
 }
