@@ -192,9 +192,5 @@
       "id": 79,
       "name": "TP. Hồ Chí Minh"
     }
-  ],
-  "Status": [
-    { "id": 1, "name": "Active" },
-    { "id": 2, "name": "Inactive" }
   ]
 }
