@@ -155,7 +155,7 @@
       "name": "Hà Nội",
       "slug": "ha-noi",
       "type": "thanh-pho",
-      "name_with_type": "Thành phố Hà Nội",
+      "city": "Thành phố Hà Nội",
       "code": "01"
     },
     {
@@ -163,7 +163,7 @@
       "name": "Hải Dương",
       "slug": "hai-duong",
       "type": "tinh",
-      "name_with_type": "Tỉnh Hải Dương",
+      "city": "Thành phố Hải Dương",
       "code": "30"
     },
     {
@@ -171,7 +171,7 @@
       "name": "Hải Phòng",
       "slug": "hai-phong",
       "type": "thanh-pho",
-      "name_with_type": "Thành phố Hải Phòng",
+      "city": "Thành phố Hải Phòng",
       "code": "31"
     },
     {
@@ -179,7 +179,7 @@
       "name": "Đà Nẵng",
       "slug": "da-nang",
       "type": "thanh-pho",
-      "name_with_type": "Thành phố Đà Nẵng",
+      "city": "Thành phố Đà Nẵng",
       "code": "48"
     },
     {
@@ -187,8 +187,30 @@
       "name": "Hồ Chí Minh",
       "slug": "ho-chi-minh",
       "type": "thanh-pho",
-      "name_with_type": "Thành phố Hồ Chí Minh",
+      "city": "Thành phố Hồ Chí Minh",
       "code": "79"
+    }
+  ],
+  "City": [
+    {
+      "id": 1,
+      "city": "Thành phố Hà Nội"
+    },
+    {
+      "id": 30,
+      "city": "Thành phố Hải Dương"
+    },
+    {
+      "id": 31,
+      "city": "Thành phố Hải Phòng"
+    },
+    {
+      "id": 48,
+      "city": "Thành phố Đà Nẵng"
+    },
+    {
+      "id": 79,
+      "city": "Thành phố Hồ Chí Minh"
     }
   ]
 }
