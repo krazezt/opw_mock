@@ -148,5 +148,47 @@
   "Brand": [
     { "id": "123456", "name": "Brand name 1" },
     { "id": "654321", "name": "Brand name 2" }
+  ],
+  "State": [
+    {
+      "id": 1,
+      "name": "Hà Nội",
+      "slug": "ha-noi",
+      "type": "thanh-pho",
+      "name_with_type": "Thành phố Hà Nội",
+      "code": "01"
+    },
+    {
+      "id": 30,
+      "name": "Hải Dương",
+      "slug": "hai-duong",
+      "type": "tinh",
+      "name_with_type": "Tỉnh Hải Dương",
+      "code": "30"
+    },
+    {
+      "id": 31,
+      "name": "Hải Phòng",
+      "slug": "hai-phong",
+      "type": "thanh-pho",
+      "name_with_type": "Thành phố Hải Phòng",
+      "code": "31"
+    },
+    {
+      "id": 48,
+      "name": "Đà Nẵng",
+      "slug": "da-nang",
+      "type": "thanh-pho",
+      "name_with_type": "Thành phố Đà Nẵng",
+      "code": "48"
+    },
+    {
+      "id": 79,
+      "name": "Hồ Chí Minh",
+      "slug": "ho-chi-minh",
+      "type": "thanh-pho",
+      "name_with_type": "Thành phố Hồ Chí Minh",
+      "code": "79"
+    }
   ]
 }
