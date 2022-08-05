@@ -1,5 +1,5 @@
 {
-  "merchants": [
+  "Merchant": [
     {
       "id": 1,
       "legalName": "Merchant 1",
