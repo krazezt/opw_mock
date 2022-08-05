@@ -2,6 +2,8 @@
   "Merchant": [
     {
       "id": 1,
+      "country": "Viet Nam",
+      "industry": "Information Technology",
       "legalName": "Merchant 1",
       "brandName": "Brand 1",
       "companyType": "Type 1",
