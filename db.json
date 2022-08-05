@@ -144,5 +144,9 @@
   "Company": [
     { "id": "1A2B3C", "name": "Company Name 1" },
     { "id": "3A2B1C", "name": "Company Name 2" }
+  ],
+  "Brand": [
+    { "id": "123456", "name": "Brand name 1" },
+    { "id": "654321", "name": "Brand name 2" }
   ]
 }
