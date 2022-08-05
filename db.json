@@ -152,65 +152,45 @@
   "State": [
     {
       "id": 1,
-      "name": "Hà Nội",
-      "slug": "ha-noi",
-      "type": "thanh-pho",
-      "city": "Thành phố Hà Nội",
-      "code": "01"
+      "name": "Hà Nội"
     },
     {
       "id": 30,
-      "name": "Hải Dương",
-      "slug": "hai-duong",
-      "type": "tinh",
-      "city": "Thành phố Hải Dương",
-      "code": "30"
+      "name": "Hải Dương"
     },
     {
       "id": 31,
-      "name": "Hải Phòng",
-      "slug": "hai-phong",
-      "type": "thanh-pho",
-      "city": "Thành phố Hải Phòng",
-      "code": "31"
+      "name": "Hải Phòng"
     },
     {
       "id": 48,
-      "name": "Đà Nẵng",
-      "slug": "da-nang",
-      "type": "thanh-pho",
-      "city": "Thành phố Đà Nẵng",
-      "code": "48"
+      "name": "Đà Nẵng"
     },
     {
       "id": 79,
-      "name": "Hồ Chí Minh",
-      "slug": "ho-chi-minh",
-      "type": "thanh-pho",
-      "city": "Thành phố Hồ Chí Minh",
-      "code": "79"
+      "name": "Hồ Chí Minh"
     }
   ],
   "City": [
     {
       "id": 1,
-      "city": "Thành phố Hà Nội"
+      "name": "TP. Hà Nội"
     },
     {
       "id": 30,
-      "city": "Thành phố Hải Dương"
+      "name": "TP. Hải Dương"
     },
     {
       "id": 31,
-      "city": "Thành phố Hải Phòng"
+      "name": "TP. Hải Phòng"
     },
     {
       "id": 48,
-      "city": "Thành phố Đà Nẵng"
+      "name": "TP. Đà Nẵng"
     },
     {
       "id": 79,
-      "city": "Thành phố Hồ Chí Minh"
+      "name": "TP. Hồ Chí Minh"
     }
   ]
 }
